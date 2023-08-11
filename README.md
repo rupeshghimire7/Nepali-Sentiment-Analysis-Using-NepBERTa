@@ -38,7 +38,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 ## 5. License
-This project is licensed under the MIT License.
+This project is licensed under the![MIT License](https://mit-license.org/).
 
 ## 6. Acknowledgments
 The NepBERTa model used in this project can be found on:![GitHub](https://nepberta.github.io).
