@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sentiment Analysis</title>
+	<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='main.css') }}"/>
+	
+</head>
+<body>
+	<nav id="nav_bar">
+		<button class="nav-btn">Home</button>
+		<button class="nav-btn" >Dataset </button>
+		<button class="nav-btn">Source Code</button>
+	</nav>
+			
+		<form id="my-form" >
+			<div>
+				<label for="input1">Input Nepali Sentence</label><br>
+				<input type="text" placeholder="असाध्यै राम्रो कार्यक्रम आयोजना गरिएको छ" name="input_text"><br>
+			</div>
+			
+
+
+			<div class="but">
+				<button type="submit" id="submit-btn">Submit</button>
+			</div>
+		</form>
+		
+		<label id="label1" for="input1">OUTPUT</label><br>
+		<p id="output"></p>
+
+	<script src="{{ url_for('static',filename='main.js') }}"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+
+</body>
+</html>
