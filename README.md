@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
 ![GitHub stars](https://img.shields.io/github/stars/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
-![GitHub forks](https://img.shields.io/github/forks/rupeshghimire7/nNepali-Sentiment-Analysis-Using-NepBERTa)
+![GitHub forks](https://img.shields.io/github/forks/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
 
 ## Overview
 
