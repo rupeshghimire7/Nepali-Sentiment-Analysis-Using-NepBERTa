@@ -33,6 +33,13 @@ Access the web interface by navigating to ***http://localhost:5000*** in your we
 
 Enter Nepali text into the provided input box and submit to receive sentiment analysis results.
 
+![Nepali Sentiment Analysis](static/analysis_1.png)
+
+
+![Nepali Sentiment Analysis](images/analysis_2.png)
+
+
+
 ## 4. Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
