@@ -1,6 +1,6 @@
 # Nepali Language Sentiment Analysis using NepBERTa
 
-![GitHub](https://img.shields.io/github/license/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
+[GitHub](https://img.shields.io/github/license/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
 ![GitHub stars](https://img.shields.io/github/stars/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
 ![GitHub forks](https://img.shields.io/github/forks/rupeshghimire7/Nepali-Sentiment-Analysis-Using-NepBERTa)
 
@@ -38,11 +38,14 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 ## 5. License
-This project is licensed under the (https://mit-license.org/).
+This project is licensed under the [MIT License](https://mit-license.org/).
 
-## 6. Acknowledgments
-The NepBERTa model used in this project can be found on:![GitHub](https://nepberta.github.io).
+
+## 5. Acknowledgments
+The NepBERTa model used in this project can be found on:[NepBERTa](https://nepberta.github.io).
 Special thanks to the creators and maintainers of the Flask framework.
+
+
 
 
 ***Happy sentiment analyzing in Nepali! 🇳🇵✨***
